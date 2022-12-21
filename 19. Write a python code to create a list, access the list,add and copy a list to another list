@@ -1,0 +1,13 @@
+
+# A list with 3 integers
+numbers = [1, 2, 5]
+print(numbers)
+# access item at index 0
+print(numbers[0])   # Python
+# using append method
+numbers.append(32)
+#jodi add korte bole append diye korbo add
+print("After Append:", numbers)
+#for copy
+mylist = numbers.copy()
+print(mylist)
